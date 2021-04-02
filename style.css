@@ -1,0 +1,118 @@
+body{
+  margin: 0;
+  background-color: black;
+}
+
+.text{
+  font-family: Arial, sans-serif;
+  display: block;
+}
+.centered{
+  display: inline-block;
+}
+.toptext{
+  font-family: Arial, sans-serif;
+  display: block;
+  color: white;
+}
+.wolke1{
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 350px;
+}
+.wolke2{
+  display: inline-block;
+  position: absolute;
+  right: 450px;
+  top: 400px;
+}
+.plane{
+  display: inline-block;
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+.heart_emoji{
+  display: inline-block;
+  position: absolute;
+  right: 620px;
+  top: 555px;
+}
+.firstdiv{
+  background-color: #00BEFF;
+  width: 100%;
+  display: inline-block;
+  position: relative;
+  margin-bottom: 7.5px;
+}
+
+
+.seconddiv{
+  background-image: url('pictures/grass.jpg');  /*#66a103*/
+  width: 100%;
+  display: inline-block;
+  position: relative;
+  margin-bottom: 7.5px;
+}
+.middletext{
+  margin-top: 100px;
+  margin-bottom: 100px;
+  color: white;
+}
+.blume1{
+  display: inline-block;
+  position: absolute;
+  right: 200px;
+  top: 200px;
+}
+.blume2{
+  display:inline-block;
+  position: absolute;
+  left: 75px;
+  bottom: 50px;
+}
+.blume3{
+  display: inline-block;
+  position: absolute;
+  top: 50px;
+  left: 300px;
+}
+
+
+.thirddiv{
+  position: relative;
+  width: 100%;
+  display: inline-block;
+  background-image: url("pictures/ocean3.jpg") ;  /*#2c2cff*/
+}
+.bottomtext{
+  margin-top: 125px;
+  margin-bottom: 125px;
+  color: white;
+  font-size: 50px;
+}
+.fisch1{
+  display: inline-block;
+  position: absolute;
+  left: 300px;
+  top: 350px;
+}
+.fisch2{
+  display: inline-block;
+  position: absolute;
+  left: 200px;
+  top: 250px;
+}
+.fisch3{
+  display: inline-block;
+  position: absolute;
+  left: 400px;
+  top: 200px;
+}
+.fisch4{
+  display: inline-block;
+  position: absolute;
+  right: 350px;
+  top: 200px;
+}
