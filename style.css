@@ -36,8 +36,8 @@ body{
 .heart_emoji{
   display: inline-block;
   position: absolute;
-  right: 620px;
-  top: 555px;
+  right: 640px;
+  top: 580px;
 }
 .firstdiv{
   background-color: #00BEFF;
@@ -45,6 +45,10 @@ body{
   display: inline-block;
   position: relative;
   margin-bottom: 7.5px;
+}
+.heartsentence{
+  position: relative;
+  right: 2%;
 }
 
 
